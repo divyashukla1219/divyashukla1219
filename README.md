@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyashukla1219
-- 👀 I’m interested in developing cool and innovative front-end features  
-- 🌱 I’m currently learning Javascript and React ..
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing responsive  and interactive  front-end features  
+- 🌱 I’m currently learning Javascript and ReactJs.
+- 💞️ I’m looking to collaborate on Front-end -projects ..
 - 📫 How to reach me divyashukla1219@gmail.com
 - 😄 Pronouns: ..She.
 - ⚡ Fun fact: ...
